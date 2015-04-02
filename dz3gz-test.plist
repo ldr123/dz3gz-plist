@@ -11,17 +11,17 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.24.80:81//dz3gz.ipa</string>
+					<string>http://117.135.157.43:8881/major/dz3gz.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.dz3gz.ip</string>
+				<string>com.ldr123.qc3gz</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>dz3gz</string>
+				<string>qc3gz</string>
 			</dict>
 		</dict>
 	</array>
